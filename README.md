@@ -3,7 +3,8 @@
   
 ![Screenshot of Greek Mythology](https://github.com/yeri63/Greek-Mythology/blob/master/mytho.png)
 </div>
-<p>Try to guess the Olympian god or goddess based on a short description of their background.</p>
+<p>The Olympian gods and goddesses of Greek mythology were the principal deities of Ancient Greece, and each was thought to have a home on Mount Olympus. They were a family, with the core being brothers and sisters, and the rest being their firstborn offspring.</p>
+<p>Try to guess the Olympian god or goddess from a short background description.</p>
 <div align="center">
   
 List of Gods | List of Goddess
